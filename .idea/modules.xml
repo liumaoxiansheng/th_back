@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../th_back/th_back.iml" filepath="$PROJECT_DIR$/../th_back/th_back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_back/th_back_dao/th_back_dao.iml" filepath="$PROJECT_DIR$/../th_back/th_back_dao/th_back_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_back/th_back_service/th_back_service.iml" filepath="$PROJECT_DIR$/../th_back/th_back_service/th_back_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_back/th_back_web/th_back_web.iml" filepath="$PROJECT_DIR$/../th_back/th_back_web/th_back_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th_mall.iml" filepath="$PROJECT_DIR$/th_mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_portal/th_portal.iml" filepath="$PROJECT_DIR$/../th_portal/th_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_portal/th_portal_dao/th_portal_dao.iml" filepath="$PROJECT_DIR$/../th_portal/th_portal_dao/th_portal_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_portal/th_portal_service/th_portal_service.iml" filepath="$PROJECT_DIR$/../th_portal/th_portal_service/th_portal_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../th_portal/th_portal_web/th_portal_web.iml" filepath="$PROJECT_DIR$/../th_portal/th_portal_web/th_portal_web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="th_back_dao" />
+        <module name="th_back_service" />
+        <module name="th_back_web" />
+        <module name="th_mall" />
+        <module name="th_portal_dao" />
+        <module name="th_portal_service" />
+        <module name="th_portal_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="th_back" target="1.5" />
+      <module name="th_back_dao" target="1.8" />
+      <module name="th_back_service" target="1.7" />
+      <module name="th_back_web" target="1.8" />
+      <module name="th_mall" target="1.5" />
+      <module name="th_portal" target="1.5" />
+      <module name="th_portal_dao" target="1.8" />
+      <module name="th_portal_service" target="1.8" />
+      <module name="th_portal_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
